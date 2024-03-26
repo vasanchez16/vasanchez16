@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi all,
+
+I am currently a PhD student at Carnegie Mellon University in the department of Chemical Engineering and working on reseach involving climate modeling.
 
 <!--
 **vasanchez16/vasanchez16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
